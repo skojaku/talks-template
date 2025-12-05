@@ -15,15 +15,46 @@ The figures and assets used in the slides are stored in the `assets` folder.
 The memo and notes for the talks are stored in the `notes` folder.
 
 
-## Get Started
+## Talk Preparation Checklist
 
-- [ ] Identify the time limit for your talk
-- [ ] Identify the audience for you talk 
-- [ ] Create a mind map of your talk's key message and narrative 
-- [ ] Flatten the map into a linear sequence of points
-- [ ] Sketch out main slides 
-- [ ] Create the first version of your slides 
-- [ ] Go through a rehearsal, identify the points that stumble you, without timing
-- [ ] Split and merge slides to improve flow
-- [ ] Rehearse again, time yourself, put a clock icon on slides to remind you to check the time
-- [ ] Finalize slides, check for consistency in fonts, colors, and layout
+### Phase 1: Planning and Narrative
+- [ ] Define the single "Idea" (cargo) the audience should take home
+- [ ] Model your audience (knowledge level, mood, variance)
+- [ ] Set slide budget (1 slide per minute)
+- [ ] Structure narrative: tell them what you'll tell them → tell them → summarize
+- [ ] Identify your puzzle or "Aha!" moment
+
+### Phase 2: Slide Design
+- [ ] Use widescreen aspect ratio
+- [ ] Ensure no small fonts
+- [ ] Check: every figure is explained (axes, data)
+- [ ] Check: every equation is explained or removed
+- [ ] Use "vertical/horizontal" instead of "X/Y axis"
+- [ ] Maintain consistent visual theme
+- [ ] Add mini-figures to conclusion slide for recall
+
+### Phase 3: Practice and Refinement
+- [ ] Script the story for each slide
+- [ ] Plan every transition (know what to say before clicking)
+- [ ] Rehearse with video recording
+- [ ] Time yourself rigorously
+- [ ] Present to a friend and apply feedback
+- [ ] Iterate: make slides → rehearse → edit → repeat
+
+### Phase 4: Delivery (Game Day)
+- [ ] Prepare PDF backup accessible via URL
+- [ ] Practice pauses and enthusiasm ("turn up to 11")
+- [ ] Plan exit strategy if running over time
+- [ ] Pre-talk: breathe, review transitions
+- [ ] Always use microphone
+- [ ] Keep lights on
+- [ ] No laser pointer
+- [ ] Respect time limit strictly
+- [ ] Post-talk: self-debrief
+
+## Further Reading
+
+- LeeAundra Keany: http://thecontrarypublicspeaker.com/
+- Paul Edwards' notes: pne.people.si.umich.edu/PDF/howtotalk.pdf
+- [cs.princeton.edu/~smattw/AMW20/Workshop_GivingATalk.pdf](https://www.cs.princeton.edu/~smattw/AMW20/Workshop_GivingATalk.pdf)
+- [Slides - The Larremore Lab](https://larremorelab.github.io/slides/) 
